@@ -1,3 +1,1 @@
-Revert "Теле2. Печатная форма, шаблоны и хуки ЗнТ"
-
-This reverts commit dad9e4be0351c24bac3a717da0367b04d621cbbb.
+Изменения 3
